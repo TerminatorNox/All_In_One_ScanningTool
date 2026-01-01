@@ -63,14 +63,20 @@ pip install requests scapy
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/TerminatorNox/omni-scanner-pro.git
+
+git clone https://github.com/TerminatorNox/All_In_One_ScanningTool.git
+
 cd omni-scanner-pro
+
 ```
 
 ### 2️⃣ (Recommended) Create Virtual Environment
 ```bash
+
 python -m venv venv
+
 source venv/bin/activate      # Linux / macOS
+
 venv\Scripts\activate         # Windows
 ```
 
